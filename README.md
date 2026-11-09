@@ -1,2 +1,3 @@
-# 26graphy-support
-Official 26graphy camera support and privacy pages — 한국어 / English / 日本語
+# 26graphy Support
+
+Public GitHub Pages support and privacy site. Source maintained in the 26graphy app repository under website/github-pages. Contact: yong.4@kakao.com.
